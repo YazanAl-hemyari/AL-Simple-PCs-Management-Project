@@ -1,0 +1,27 @@
+{
+  "id": "8b87f03a-56a0-4d19-a9f7-1a48dbd68ab8",
+  "name": "PCs Management System",
+  "contextSensitiveHelpUrl": "http://www.mycompany.com/help",
+  "publisher": "Yazan publisher",
+  "version": "2.0.0.2",
+  "brief": "PCs Management System to IBB",
+  "description": "PCs Management System to IBB Innovations",
+  "privacyStatement": "http://www.mycompany.com/privacy",
+  "EULA": "http://www.mycompany.com/eula",
+  "help": "http://www.mycompany.com/help",
+  "url": "http://www.mycompany.com/privacy",
+  "logo": "./images/IMG-20200816-WA0007.jpg",
+  "dependencies": [],
+  "screenshots": [],
+  "platform": "1.0.0.0",
+  "application": "17.0.0.0",
+  "idRanges": [
+    {
+      "from": 1000000,
+      "to": 75999999
+    }
+  ],
+  "showMyCode": true,
+  "runtime": "6.0",
+  "features": ["TranslationFile"]
+}

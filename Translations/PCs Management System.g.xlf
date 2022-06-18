@@ -1,0 +1,374 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-transitional.xsd">
+  <file datatype="xml" source-language="en-US" target-language="en-US" original="PCs Management System">
+    <body>
+      <group id="body">
+        <trans-unit id="Table 3160693644 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Customers</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table YA PCs - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3160693644 - Field 2263568506 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>CPU</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table YA PCs - Field CPU - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3160693644 - Field 2263568506 - Property 62802879" size-unit="char" translate="yes" xml:space="preserve">
+          <source>"Core i3","Core i4","Core i5","Core i7","Core i9"</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table YA PCs - Field CPU - Property OptionCaption</note>
+        </trans-unit>
+        <trans-unit id="Table 3160693644 - Field 3461834954 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Description</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table YA PCs - Field Description - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3160693644 - Field 2979075524 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Manufacturer No.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table YA PCs - Field Manufacturer No. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3160693644 - Field 4200184881 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Customer No.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table YA PCs - Field No. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3160693644 - Field 291044919 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Country/Region Code</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table YA PCs - Field PCs Manuf. Country/Region Code - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3160693644 - Field 1594621544 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Pictures</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table YA PCs - Field Picture - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3160693644 - Field 532835786 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Transmission</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table YA PCs - Field Transmission - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3160693644 - Field 532835786 - Property 62802879" size-unit="char" translate="yes" xml:space="preserve">
+          <source>MAN,AUT</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table YA PCs - Field Transmission - Property OptionCaption</note>
+        </trans-unit>
+        <trans-unit id="Table 3160693644 - Field 1878130204 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Type</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table YA PCs - Field Type - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3160693644 - Field 1878130204 - Property 62802879" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Workstation,PC (Personal Computer),Mini Computer,Main Frame,</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table YA PCs - Field Type - Property OptionCaption</note>
+        </trans-unit>
+        <trans-unit id="Table 3160693644 - Field 1499965259 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Vender No.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table YA PCs - Field Vender No. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2254780311 - Field 284764054 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Country/Region Code.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table YA PCs Manufacture - Field Country/Region Code - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2254780311 - Field 3461834954 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Description</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table YA PCs Manufacture - Field Description - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2254780311 - Field 4200184881 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Manufacturer No.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table YA PCs Manufacture - Field No. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2254780311 - Field 742412210 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>No. of PCs</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table YA PCs Manufacture - Field No. of PCs - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2254780311 - Field 3986423421 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Phone No.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table YA PCs Manufacture - Field Phone No. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1071226424 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>PCs Card</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page YA PCs Card - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1071226424 - Control 2445482498 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>General</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page YA PCs Card - Control General - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1071226424 - Control 2263568506 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>CPU</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page YA PCs Card - Control CPU - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 1071226424 - Control 3461834954 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Description</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page YA PCs Card - Control Description - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 1071226424 - Control 2979075524 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Manufacturer No.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page YA PCs Card - Control Manufacturer No. - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 1071226424 - Control 4200184881 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>No.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page YA PCs Card - Control No. - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 1071226424 - Control 587964684 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Car Manufacturer Country/Region</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page YA PCs Card - Control PCs Manuf. Country/Region - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 1071226424 - Control 532835786 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Transmission</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page YA PCs Card - Control Transmission - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 1071226424 - Control 1878130204 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Type</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page YA PCs Card - Control Type - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 1071226424 - Control 1527594213 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Transmission</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page YA PCs Card - Control Vendor No. - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 1071226424 - Action 2929354344 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Show Manufacturer PCs</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page YA PCs Card - Action Show Manufacturer PCs - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 392468733 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>PCs Picture</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page YA PCs Card Part - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 392468733 - Control 1594621544 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Picture</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page YA PCs Card Part - Control Picture - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 1731678366 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>PCs List</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page YA PCs List - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1731678366 - Control 2263568506 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>CPU</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page YA PCs List - Control CPU - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 1731678366 - Control 3461834954 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Description</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page YA PCs List - Control Description - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 1731678366 - Control 2979075524 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Manufacturer No.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page YA PCs List - Control Manufacturer No. - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 1731678366 - Control 4200184881 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>No.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page YA PCs List - Control No. - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 1731678366 - Control 587964684 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>PCs Manufacturer Country/Region</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page YA PCs List - Control PCs Manuf. Country/Region - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 1731678366 - Control 532835786 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Transmission</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page YA PCs List - Control Transmission - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 1731678366 - Control 1878130204 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Type</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page YA PCs List - Control Type - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 1731678366 - Control 1527594213 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Transmission</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page YA PCs List - Control Vendor No. - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 1439318959 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>PCs Factbox</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page YA PCs Listpart - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1439318959 - Control 2263568506 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Transmission</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page YA PCs Listpart - Control CPU - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 1439318959 - Control 3461834954 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Description</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page YA PCs Listpart - Control Description - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 1439318959 - Control 4200184881 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>No.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page YA PCs Listpart - Control No. - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 1439318959 - Control 532835786 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Transmission</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page YA PCs Listpart - Control Transmission - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 997240659 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>PCs Manufacturer Card</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page YA PCs Manufacture Card - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 997240659 - Control 3461834954 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Description</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page YA PCs Manufacture Card - Control Description - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 997240659 - Control 4200184881 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>No.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page YA PCs Manufacture Card - Control No. - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 997240659 - Control 742412210 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>No. of PCs</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page YA PCs Manufacture Card - Control No. of PCs - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 997240659 - Control 3986423421 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Phone No.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page YA PCs Manufacture Card - Control Phone No. - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 514752865 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>PCs Manufacturer List</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page YA PCs Manufacture List - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 514752865 - Control 3461834954 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Description</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page YA PCs Manufacture List - Control Description - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 514752865 - Control 4200184881 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>No.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page YA PCs Manufacture List - Control No. - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 514752865 - Control 742412210 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>No. of PCs</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page YA PCs Manufacture List - Control No. of PCs - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 514752865 - Control 3986423421 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Phone No.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page YA PCs Manufacture List - Control Phone No. - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 4023444697 - Action 2938589532 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 523354100">
+          <source>Call via Skype</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension YASocialMedia - Action YA Call via Skype - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 4023444697 - Action 2938589532 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 523354100">
+          <source>Call via Skype</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension YASocialMedia - Action YA Call via Skype - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 4023444697 - Control 1571163620 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 523354100">
+          <source>Facebook URl</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension YASocialMedia - Control YA Facebook - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 4023444697 - Control 1571163620 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 523354100">
+          <source>Facebook</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension YASocialMedia - Control YA Facebook - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 4023444697 - Control 2574423356 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 523354100">
+          <source>Instagram URl</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension YASocialMedia - Control YA Instagram - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 4023444697 - Control 2574423356 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 523354100">
+          <source>Instagram</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension YASocialMedia - Control YA Instagram - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 4023444697 - Control 3840833792 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 523354100">
+          <source>Prefered Channel</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension YASocialMedia - Control YA Pref. Channel - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 4023444697 - Control 3840833792 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 523354100">
+          <source>Prefered Channel</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension YASocialMedia - Control YA Pref. Channel - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 4023444697 - Control 999696648 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 523354100">
+          <source>Skype URl</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension YASocialMedia - Control YA Skype - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 4023444697 - Control 999696648 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 523354100">
+          <source>Skype</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension YASocialMedia - Control YA Skype - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 4023444697 - Control 501224271 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 523354100">
+          <source>Twitter URl</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension YASocialMedia - Control YA Twitter - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 4023444697 - Control 501224271 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 523354100">
+          <source>Twitter</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension YASocialMedia - Control YA Twitter - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 4023444697 - Field 1571163620 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 1994964448">
+          <source>YA Facebook</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension YASocialMedia - Field YA Facebook - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 4023444697 - Field 2574423356 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 1994964448">
+          <source>YA Instagram</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension YASocialMedia - Field YA Instagram - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 4023444697 - Field 3840833792 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 1994964448">
+          <source>YA Pref. Channel</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension YASocialMedia - Field YA Pref. Channel - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 4023444697 - Field 3840833792 - Property 62802879" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 1994964448">
+          <source>Facebook,Instagram,Twitter,Skype</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension YASocialMedia - Field YA Pref. Channel - Property OptionCaption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 4023444697 - Field 999696648 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 1994964448">
+          <source>YA Skype</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension YASocialMedia - Field YA Skype - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 4023444697 - Field 501224271 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 1994964448">
+          <source>YA Twitter</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension YASocialMedia - Field YA Twitter - Property Caption</note>
+        </trans-unit>
+      </group>
+    </body>
+  </file>
+</xliff>
